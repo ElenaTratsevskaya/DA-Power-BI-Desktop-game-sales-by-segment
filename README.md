@@ -52,8 +52,5 @@ ___________________________________________________________
 
 <br>
 
-![Гейм-дэв_2](https://github.com/ElenaTratsevskaya/Microsoft-Power-BI-Desktop-Sales-Analysis-Project/assets/110056199/f32b780f-ce23-4098-afc7-8f77d99f7f40)
-
-
-
+![Гейм-дэв_3](https://github.com/ElenaTratsevskaya/Microsoft-Power-BI-Desktop-Sales-Analysis-Project/assets/110056199/1f6be393-1ebb-4646-bf2b-2148e1ae7933)
 
