@@ -1,5 +1,5 @@
 # DA-Power-BI-Desktop-Sales-Analysis-Project
-Analysis of game sales by segment
+Desktop-Sales-Analysis-Project
 
 **ЦЕЛЬ**<br><br>
 Используя сегментацию, выяснить, почему продажи в игре не так велики, как могли бы быть.<br><br>
